@@ -1,0 +1,9 @@
+emp_id,first_name,department,salary,hire_date,performance_score,satisfaction_score,attrition
+1,Ada,HR,120000,2022-01-10,4,3,Yes
+2,Tunde,IT,200000,2021-03-15,5,5,No
+3,Musa,Sales,150000,2023-02-01,3,2,Yes
+4,Chioma,IT,220000,2020-07-20,5,4,No
+5,Kemi,HR,130000,2022-11-05,2,2,Yes
+6,John,Sales,140000,2021-09-12,4,3,No
+7,Blessing,IT,210000,2023-01-18,3,2,Yes
+8,Ibrahim,Sales,160000,2020-05-25,5,5,No
