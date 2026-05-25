@@ -74,7 +74,7 @@ performance_score – Performance rating (1–5)
 satisfaction_score – Job satisfaction level (1–5)
 attrition – Employee status (Yes = left, No = active)
 
-🛠 Tools & Technologies
+🛠 Tools Used
 SQL
 Excel
 
