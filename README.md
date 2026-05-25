@@ -1,10 +1,50 @@
-📊 HR Analytics Project: Employee Attrition & Performance Insights
+Project 1 
+📊 HR Analytics Dashboard – Power BI Project
 
 🧠 Overview
+This project focuses on analyzing HR data to uncover insights related to employee attrition, workforce distribution, satisfaction levels, and departmental trends. The goal is to support data-driven HR decisions that improve employee retention and organizational performance.
 
-This project analyzes employee data to understand attrition trends and identify key factors influencing employee turnover and performance.
+🎯 Problem Statement
+Organizations often struggle to understand why employees leave and how different factors such as age, department, and satisfaction impact retention. This project analyzes HR data to identify key patterns behind employee attrition.
 
-The goal is to move beyond raw data and generate actionable HR insights that can support better decision-making.
+🛠 Tools & Technologies
+Power BI
+SQL
+Excel
+
+📂 Dataset Features
+The dataset includes:
+Employee demographics (age, gender, education)
+Department information
+Job satisfaction levels
+Attrition status
+Workforce distribution data
+
+📊 Dashboard Features
+The interactive Power BI dashboard includes:
+KPI cards (Active vs Inactive employees, Attrition rate)
+Employee distribution by age and gender
+Attrition analysis by department
+Satisfaction level insights
+Education background distribution
+Slicers for dynamic filtering
+
+🔍 Key Insights
+Employees aged 25–34 represent the largest workforce group
+Overall attrition rate is 16.12%
+Employee satisfaction has a strong influence on retention
+Certain departments experience higher turnover than others
+
+💡 Recommendations
+Improve retention strategies for younger employees
+Increase employee engagement and recognition programs
+Regularly monitor employee satisfaction trends
+Investigate departments with high attrition rates
+
+
+Project 2
+
+📊 HR Analytics Project: Employee Attrition & Performance Insights
 
 🎯 Project Objectives
 
@@ -34,9 +74,9 @@ performance_score – Performance rating (1–5)
 satisfaction_score – Job satisfaction level (1–5)
 attrition – Employee status (Yes = left, No = active)
 
-💻 Tools Used
-SQL (MySQL)
-Excel (for optional visualization)
+🛠 Tools & Technologies
+SQL
+Excel
 
 📊 Key Analysis & SQL Queries
 
